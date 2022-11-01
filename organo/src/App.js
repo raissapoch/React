@@ -63,6 +63,3 @@ function App() {
 }
 
 export default App;
-
-
-//tentando arrumar erros
